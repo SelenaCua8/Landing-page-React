@@ -14,7 +14,7 @@ export function About() {
 
             </div>
             <div className='flex items-center justify-center'>
-            <Image src='/assets/house.jpg' alt='About' width={350} height={450} className='w-auto h-auto' priority/>
+            <Image src='/assets/houses/house1.jpg' alt='About' width={350} height={450} className='w-auto h-auto' priority/>
             </div>
 
         </Transition>
